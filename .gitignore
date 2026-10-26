@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+runs/
+data/*
+!data/README.md
+*.pt
