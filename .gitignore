@@ -4,5 +4,5 @@ __pycache__/
 .venv/
 runs/
 data/*
-!data/README.md
+!data/.gitkeep
 *.pt
